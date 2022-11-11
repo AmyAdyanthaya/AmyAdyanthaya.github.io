@@ -1,2 +1,2 @@
 # AmyAdyanthaya.github.io
-Display CLT
+Display CLT 2
